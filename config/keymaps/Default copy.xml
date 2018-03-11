@@ -1,6 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Console.TableResult.SetNull" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="GotoCustomRegion" />
   <action id="GotoImplementation" />
   <action id="Inline" />
   <action id="IntroduceConstant" />
