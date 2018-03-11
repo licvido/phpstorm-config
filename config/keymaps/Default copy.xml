@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.TableResult.SetNull" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="GotoImplementation" />
+  <action id="Inline" />
+  <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
+  <action id="IntroduceVariable" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+</keymap>
